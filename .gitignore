@@ -1,0 +1,37 @@
+# Build
+**/bin/
+**/obj/
+
+# Rider
+**/.idea/
+*.sln.iml
+
+# User files
+*.user
+*.rsuser
+*.suo
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Env
+.env
+
+# ASP.NET
+appsettings.Development.json
+
+# NuGet
+*.nupkg
+
+# VSCode
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Docker
+docker-compose.override.yml
